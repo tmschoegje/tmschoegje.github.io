@@ -1,11 +1,32 @@
 ---
 permalink: /
-title: "Thomas Schoegje, researcher"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
+Shaping information around people
+======
+
+Information technologies are improving rapidly, and we need to figure out how to adapt/employ/use/translate these technologies in useful systems. Creating these systems necessitates an understanding of what people need to know or do, which then enables designing support for those tasks. During my PhD research we investigated _what_ information people need to perform their tasks, and my ongoing research considers _how_ people can make the most of this information. We can empower people to work with complex and overwhelming amounts of information by adapting it to how they process information. Adapting information to individuals makes our systems more useful, more engaging, and better suited to real-world needs.
+
+
+
+# Task-based search
+test
+
+Task-based search
+======
+During my PhD my research was focused on tailoring search engines to the search tasks of users.
+
+around the tasks 
+
+This research was applied at the Municipality of Utrecht
+
+around user need
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 

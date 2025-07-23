@@ -13,9 +13,9 @@ title                    : "Shaping information around people"
 title_separator          : "-"
 name                     : &name "Thomas Schoegje"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://tmschoegje.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "tmschoegje/tmschoegje.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   name             : "Thomas Schoegje, PhD"
   pronouns         :  # "he/him"  
   bio              : "Search development and research"
-  location         : "Utrecht"
+  location         : "Utrecht, Netherlands"
   employer         : "Gemeente Utrecht"
   uri              : # URL
   email            : "tmschoegje@gmail.com" 
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/thomas-schoegje-25205585"
+  linkedin         : "thomas-schoegje-25205585"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

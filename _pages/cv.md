@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-layout:archive
+layout: archive
 type: "Talk"
 permalink: /cv/
 author_profile: true

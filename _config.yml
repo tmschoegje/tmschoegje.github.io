@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Thomas Schoegje, PhD"
+title                    : "Shaping information around people,"
 title_separator          : "-"
 name                     : &name "Thomas Schoegje"
 description              : &description "personal description"
@@ -23,8 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "linkedin.png"
-  name             : "Thomas Schoegje"
-  pronouns         :  example: "he/him"  
+  name             : "Thomas Schoegje, PhD"
+  pronouns         :  "he/him"  
   bio              : "Search development and research"
   location         : "Utrecht"
   employer         : "Gemeente Utrecht"

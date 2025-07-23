@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "linkedin.fjiff"
+  avatar           : "linkedin.png"
   name             : "Thomas Schoegje"
-  pronouns         : # example: "he/him"  
+  pronouns         :  example: "he/him"  
   bio              : "Search development and research"
   location         : "Utrecht"
   employer         : "Gemeente Utrecht"
@@ -32,7 +32,7 @@ author:
   email            : "tmschoegje@gmail.com" 
 
   # Academic websites
-  academia         : "https://dblp.org/pid/167/5410.html"
+  dblp         : "https://dblp.org/pid/167/5410.html"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL

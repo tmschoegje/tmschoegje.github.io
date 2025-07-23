@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shaping information around people"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/

@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: "Resume"
 layout: archive
 type: "Talk"
 permalink: /cv/

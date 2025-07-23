@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Homepage"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Thomas Schoegje"
 description              : &description "personal description"

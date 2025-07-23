@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Shaping information around people"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 
-Shaping information around people
-======
+
 
 Information technologies are improving rapidly, and we need to figure out how to adapt these technologies into useful systems. Creating these systems necessitates an understanding of what people need to know or do, which then enables designing support for those tasks. During my PhD research we investigated _what_ information people need to perform their tasks, and my ongoing research considers _how_ people can make the most of this information. We can empower people to work with complex and overwhelming amounts of information by adapting it to how they process information. Adapting information to individuals makes our systems more useful, more engaging, and better suited to real-world needs.
 

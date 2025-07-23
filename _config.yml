@@ -23,16 +23,16 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "linkedin.fjiff"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Dr. Thomas Schoegje"
+  pronouns         : # example: "he/him"  
+  bio              : "Search development and research"
+  location         : "Utrecht"
+  employer         : "Gemeente Utrecht"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tmschoegje@gmail.com" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://dblp.org/pid/167/5410.html"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL

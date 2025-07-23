@@ -6,4 +6,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-My resume is available [here](./files/CV_thesis.pdf)
+My resume is available [here](../files/CV_thesis.pdf)

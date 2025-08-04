@@ -1,7 +1,7 @@
 ---
 title: "Improving the Effectiveness and Efficiency of Web-Based Search Tasks for Policy Workers"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023-information
 excerpt: 'Designing and testing a search engine for the web search tasks of municipal policy workers'
 date: 2023-08-18

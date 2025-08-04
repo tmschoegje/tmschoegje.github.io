@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2022-egov
 excerpt: 'Characterising the work tasks and search tasks of council members to develop domain-specific search functionality'
-date: 2022-07
+date: 2022-07-06
 venue: 'EGOV 2022'
 slidesurl: 'http://academicpages.github.io/files/egov-slides.pdf'
 paperurl: 'http://academicpages.github.io/files/egov-paper.pdf'

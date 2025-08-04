@@ -1,0 +1,26 @@
+---
+title: "Improving the Effectiveness and Efficiency of Web-Based Search Tasks for Policy Workers"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-information
+excerpt: 'Designing and testing a search engine for the web search tasks of municipal policy workers'
+date: 2023-08-18
+venue: 'MDPI Information'
+slidesurl: 'http://academicpages.github.io/files/information-slides.pdf'
+paperurl: 'http://academicpages.github.io/files/information-paper.pdf'
+citation: 'Schoegje, Thomas, et al. "Improving the Effectiveness and Efficiency of Web-Based Search Tasks for Policy Workers." Information 14.7 (2023): 371.'
+---
+
+We adapt previous literature on search tasks for developing a domain-specific search engine
+that supports the search tasks of policy workers. To characterise the search tasks we conducted two
+rounds of interviews with policy workers at the municipality of Utrecht, and found that they face
+different challenges depending on the complexity of the task. During simple tasks, policy workers face
+information overload and time pressures, especially during web-based searches. For complex tasks,
+users prefer finding domain experts within their organisation to obtain the necessary information,
+which requires a different type of search functionality. To support simple tasks, we developed a web
+search engine that indexes web pages from authoritative sources only. We tested the hypothesis that
+users prefer expert search over web search for complex tasks and found that supporting complex
+tasks requires integrating functionality that enables finding internal experts within the broader web
+search engine. We constructed representative tasks to evaluate the proposed system’s effectiveness
+and efficiency, and found that it improved user performance. The search functionality developed
+could be standardised for use by policy workers in different municipalities within the Netherlands

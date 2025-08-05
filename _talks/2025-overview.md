@@ -1,5 +1,5 @@
 ---
-title: "Applied research overview"
+title: "Overview of our applied research"
 collection: talks
 type: "Talk"
 permalink: /talks/2025-overview

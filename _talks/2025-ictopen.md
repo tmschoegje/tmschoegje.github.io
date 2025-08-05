@@ -1,5 +1,5 @@
 ---
-title: "Track presentation: HCI research at the municipality"
+title: "Track session: HCI research at the municipality"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2025-ictopen

@@ -2,7 +2,7 @@
 title: "Symposium: Why task-based search?"
 collection: talks
 type: "Talk"
-permalink: /talks/symposium-slides.pptx
+permalink: /talks/2020-symposium
 venue: "Gemeente Utrecht"
 date: 2020-01-01
 location: "Utrecht"

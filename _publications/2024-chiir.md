@@ -6,7 +6,7 @@ permalink: /publication/2024-chiir
 excerpt: 'Investigating whether expert search engines should model their retrieval unit at a document-level or candidate- level during both the ranking and the presentation of search results. Investigated for the tasks of municipal policy workers.'
 date: 2024-03-10
 venue: 'CHIIR'
-slidesurl: '/files/chiir-slides.pdf'
+slidesurl: '/files/chiir-slides.pptx'
 paperurl: '/files/chiir-paper.pdf'
 citation: 'Schoegje, Thomas, et al. "Improving expert search effectiveness: Comparing ways to rank and present search results." Proceedings of the 2024 Conference on Human Information Interaction and Retrieval. 2024.'
 ---

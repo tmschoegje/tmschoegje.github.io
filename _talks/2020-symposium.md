@@ -9,4 +9,4 @@ location: "Utrecht"
 ---
 
 Presenting why a task-based approach to search can lead to better search satisfaction.
-[here](www.url.nl)
+[here](/files/symposium-slides.pptx)

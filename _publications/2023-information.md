@@ -6,7 +6,7 @@ permalink: /publication/2023-information
 excerpt: 'Designing and testing a search engine for the web search tasks of municipal policy workers'
 date: 2023-08-18
 venue: 'MDPI Information'
-paperurl: 'http://academicpages.github.io/files/information-paper.pdf'
+paperurl: '/files/information-paper.pdf'
 citation: 'Schoegje, Thomas, et al. "Improving the Effectiveness and Efficiency of Web-Based Search Tasks for Policy Workers." Information 14.7 (2023): 371.'
 ---
 

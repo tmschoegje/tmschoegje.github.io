@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2025-overview
 venue: "Innoviq"
-date: 2014-02-01
+date: 2025-01-01
 location: "Bergambacht, NL"
 ---
 

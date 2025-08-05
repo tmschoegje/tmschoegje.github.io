@@ -2,7 +2,7 @@
 title: "Research overview"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2025-ictopen
+permalink: /talks/ictopen-slides.pptx
 venue: "ICTOpen"
 date: 2025-01-01
 location: "Utrecht, NL"

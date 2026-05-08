@@ -1,0 +1,13 @@
+---
+title: "Role Enactment of Multi-User LLM-Based Conversational Agents in Group-Based Knowledge Work: A Pilot Study of Collaborative UX Design"
+collection: publications
+category: conferences
+permalink: /publication/2026-chi
+excerpt: 'Investigating what roles a prompt-based conversational assistant can and should take within a collaborative group project.'
+date: 2026-04-13
+venue: 'CHI'
+paperurl: '/files/chi-paper.pdf'
+citation: ''
+---
+
+LLM-based conversational agents are increasingly being integrated into knowledge work; however, most existing systems are designed primarily for single-user interaction. Our research investigates an emerging category of systems - Multi-User LLM-based Conversational Agents (MULCAs)—and examines their potential to function as collaborators in group-based knowledge tasks. As a case study, we focus on collaborative UX design and report findings from an exploratory study involving 24 MSc students. Participants worked in small groups and interacted with a MULCA during the initial tasks of the UX design process. We collected data on participants’ initial expectations regarding MULCA support, their patterns of use throughout the UX design process, the agent’s observable behaviors, and their perceived utility of the system. Our findings highlight the diverse roles MULCAs can assume in collaborative UX design and provide a deeper understanding of both the opportunities and limitations of such agents in supporting group-based knowledge work.

@@ -8,15 +8,13 @@ redirect_from:
 ---
 
 
+AI systems are only useful when they solve real problems, and do it in ways that work for their users. My research focuses on designing AI systems around real problems and around how people interact with information. By developing systems that adapt to how individual people think, learn and process information we can create technology that doesn't just support cognitive diversity, but actively empowers it.
+
+# Current Research: Adaptive AI for Cognitive Diversity
+My current work focuses on adapting large language models for multi-user contexts. I develop systems that support collaboration, facilitate group interaction, and help users build skills. This research also serves as a foundation for adaptive AI systems that align with different cognitive profiles and information needs. For example, some users may benefit from concise and focused information that supports rapid decision-making, while others may prefer comprehensive overviews that allow for deeper analysis and reflection.
+
+This work overlaps with a parallel project focused on helping people better understand their own cognitive profiles. We are developing a platform that helps users recognize mismatches between their cognitive style and workplace demands, while also teaching practical strategies to bridge those gaps.
 
 
-Information technologies are improving rapidly, and we need to figure out how to adapt these technologies into useful systems. Creating these systems necessitates an understanding of what people need to know or do, which then enables designing support for those tasks. During my PhD research we investigated _what_ information people need to perform their tasks, and my ongoing research considers _how_ people can make the most of this information. We can empower people to work with complex and overwhelming amounts of information by adapting it to how they process information. Adapting information to individuals makes our systems more useful, more engaging, and better suited to real-world needs.
-
-
-
-# Task-based search
-During my PhD research we developed search engines around the tasks of various user groups within the Municipality of Utrecht. This includes the public-facing [Ureka](https://ureka.utrecht.nl) search engine for city council members, which was developed in collaboration with the company Spinque. The six-year PhD program combined practical and academic challenges in a series of applied research projects.
-
-
-# Shaping information around people
-There is a difference in how information is processed across both tasks and individuals. Information systems should respond to this context by, for example, adapting information to be concise or complete. However, it remains unclear how information systems should be adapted to different cognitive styles. In my current work I am exploring these cognitive profiles, and how to adapt information systems.
+# Background: Task-based infomration systems OR Solving the right problem
+During my PhD research we developed search engines around the tasks of various user groups within the Municipality of Utrecht. This includes the public-facing [Ureka](https://ureka.utrecht.nl) search engine for city council members, which was developed in collaboration with the company Spinque. The six-year PhD combined academic research with practical challenges across a series of applied projects. The work focused on designing information systems around the actual tasks, workflows, and decision-making needs of their users.

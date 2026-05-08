@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shaping information around people"
+title                    : "Technology for cognitive diversity"
 title_separator          : "-"
 name                     : &name "Thomas Schoegje"
 description              : &description "personal description"

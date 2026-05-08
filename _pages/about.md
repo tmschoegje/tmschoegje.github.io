@@ -16,5 +16,5 @@ My current work focuses on adapting large language models for multi-user context
 This work overlaps with a parallel project focused on helping people better understand their own cognitive profiles. We are developing a platform that helps users recognize mismatches between their cognitive style and workplace demands, while also teaching practical strategies to bridge those gaps.
 
 
-# Background: Task-based infomration systems OR Solving the right problem
+# Background: Task-based information systems
 During my PhD research we developed search engines around the tasks of various user groups within the Municipality of Utrecht. This includes the public-facing [Ureka](https://ureka.utrecht.nl) search engine for city council members, which was developed in collaboration with the company Spinque. The six-year PhD combined academic research with practical challenges across a series of applied projects. The work focused on designing information systems around the actual tasks, workflows, and decision-making needs of their users.
